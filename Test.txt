@@ -1,1 +1,2 @@
-Hello, Welcon!
+Hello, Welcome!
+In next video we'll learn Git add, commit, push commands.
